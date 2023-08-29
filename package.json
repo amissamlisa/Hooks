@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-hook-form": "^7.45.4",
+    "rooks": "^7.14.1"
+  }
+}
